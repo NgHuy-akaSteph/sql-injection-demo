@@ -1,0 +1,16 @@
+{
+  "name": "sql-injection-demo",
+  "version": "1.0.0",
+  "description": "Demo web to test sql injection ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Huy Quang",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mssql": "^11.0.1",
+    "mysql2": "^3.13.0"
+  }
+}
